@@ -1,0 +1,179 @@
+.languages {
+  height: 4vh;
+  width: 100vw;
+  margin-left: -10vw;
+  position: absolute;
+}
+
+.portada {
+  height: 90vh;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.left {
+  width: 60%;
+  height: 90vh;
+  /* background: grey; */
+  text-align: right;
+  justify-content: end;
+  /* align-items: end; */
+}
+
+.right {
+  width: 40%;
+  height: 90vh;
+  /* background: grey; */
+  text-align: right;
+  justify-content: end;
+  overflow: "hidden";
+}
+
+.adam {
+  font-size: 12rem;
+  font-weight: 700;
+}
+
+.degree {
+  font-size: 2.5rem;
+}
+
+.nextSection {
+  height: 6vh;
+}
+.signatura {
+  margin-top: 80px;
+}
+.skill {
+  display: inline-block;
+  width: 130px;
+  height: 130px;
+  /* border: 1px solid black; */
+  border-radius: 100%;
+  margin: 15px 30px;
+}
+.skillicon {
+  margin-top: 20px;
+  margin-left: 30px;
+  width: 70px;
+}
+.skilltext {
+  margin-top: 5px;
+  font-size: 1.1rem;
+  font-weight: 800;
+}
+.skillsTitle {
+  font-size: 2.5rem;
+  font-weight: 800;
+  text-align: center;
+}
+
+.job {
+  padding-top: 50px;
+  width: 350px;
+  margin: auto 5vw;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.jobTitle {
+  /* width: 70vw; */
+  display: block;
+  justify-content: flex-start;
+  align-items: center;
+}
+.jobTitleTxt {
+  display: block;
+  text-align: center;
+}
+
+.description {
+  margin-top: 10px;
+}
+@media (max-width: 800px) {
+  .sidebar {
+    display: none;
+  }
+  .languages {
+    height: 4vh;
+    width: 100vw;
+    margin-left: 0vw;
+    position: absolute;
+  }
+  .portada {
+    display: block;
+  }
+  .left {
+    width: 100vw;
+    text-align: center;
+    justify-content: center;
+    height: 35vh;
+    padding-top: 10vh;
+  }
+  .right {
+    width: 100vw;
+    height: 55vh;
+    /* background: grey; */
+    text-align: center;
+    justify-content: center;
+    overflow: "hidden";
+  }
+  .adam {
+    font-size: 5rem;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .degree {
+    font-size: 1.4rem;
+    text-align: center;
+  }
+  .signatura {
+    margin-top: 30px;
+    margin-left: 17vw;
+    width: 50vw;
+  }
+  .skill {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    /* border: 1.5px solid black; */
+    border-radius: 100%;
+    margin: 10px 10px;
+  }
+  .skillicon {
+    margin-top: 15px;
+    margin-left: 25px;
+    width: 50px;
+  }
+  .skilltext {
+    font-size: 0.9rem;
+    font-weight: 600;
+  }
+  .skillsTitle {
+    font-size: 2.5rem;
+    font-weight: 800;
+    margin-top: 0px;
+    text-align: center;
+  }
+  .jobTitle {
+    display: block;
+  }
+  .jobTitleTxt {
+    display: block;
+    text-align: center;
+    margin-left: 0;
+  }
+  .description {
+    margin-top: 20px;
+  }
+  .job {
+    padding-top: 50px;
+    width: 70vw;
+    margin: auto auto;
+    display: inline-block;
+    vertical-align: top;
+  }
+}

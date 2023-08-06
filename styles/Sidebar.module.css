@@ -1,0 +1,47 @@
+.sidebar {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    height: 100vh;
+    width: 10vw;
+    /* background: grey; */
+    position: fixed;
+}
+
+.scrollEffect {
+    margin-left: 25px;
+    height: 40vh;
+    width: 6px;
+    border-radius: 5px;
+    transition: 0.9s;
+}
+
+.sections {
+    height: 39vh;
+    margin-left: 13px;
+    /* background: green; */
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.section {
+    font-size: 1.1rem;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: 500;
+    color: rgb(16, 16, 16);
+    transition: 0.3s;
+}
+
+
+.section:hover {
+    text-shadow: 0px 0px 1px #000;
+    color: rgb(0, 0, 0);
+}
+
+@media (max-width: 800px) {
+    .sidebar {
+        display: none;
+    }
+}

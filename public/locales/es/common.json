@@ -1,0 +1,39 @@
+{
+  "menu": {
+    "adam": "Adam",
+    "aboutme": "Perfil",
+    "skills": "Conocimientos",
+    "experience": "Experiencia",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "adam": {
+    "title": "Adam",
+    "subtitle": "Matemáticas e Ingeniería Informática"
+  },
+  "about": {
+    "heysoy": "Hola! Soy",
+    "niceto": ", encantado de conocerte!",
+    "soyun": "Soy un estudiante de 20 años del",
+    "doblegr": "doble grado en Matemáticas e Ingeniería Informática",
+    "moti": ", con una gran motivación para encontrar nuevos desafíos y oportunidades para aprender y crecer profesionalmente.",
+    "mepresento": "Me presento como una persona dedicada y comprometida, con una gran capacidad organizativa y de aprendizaje, la cual me permite adaptarme rápidamente a nuevos entornos y tecnologías. Disfruto del trabajo en equipo, buscando soluciones creativas a problemas complejos.",
+    "skills": "Conocimientos"
+  },
+  "header": {
+    "Home": "Home",
+    "About": "About"
+  },
+  "experience": {
+    "title": "Experiencia",
+    "imssyTitulo": "Desarollador Web",
+    "imssyInicio": "Durante mi tiempo en IMSSY Industrie, trabajé como desarrollador web encargado de crear el sitio web",
+    "imssyFinal": "Utilizando WordPress, diseñé y desarrollé el sitio, al mismo tiempo que programé un complemento personalizado utilizando PHP yThree.js para mostrar modelos en 3D de los productos de la empresa. Además, gestioné la infraestructura de alojamiento e implementé técnicas de SEO para mejorar el posicionamiento del sitio web en los motores de búsqueda",
+    "wardusTitulo": "Desarollador Mobil",
+    "wardus": "Actualmente estoy trabajando en un proyecto emocionante llamado Wardus, una aplicación para iOS y Android. Estoy utilizando Flutter para programar la aplicación, lo que me permite crear una interfaz de usuario atractiva y fluida para iOS y Android. Para el backend, estoy utilizando Firebase, que me proporciona una plataforma en la nube escalable y segura para almacenar y sincronizar datos en tiempo real. Por último, estoy utilizando Cloudflare para mejorar la seguridad y el rendimiento de la aplicación."
+  },
+  "contact": {
+    "title": "Contacto",
+    "text": "Estoy emocionado de conectarme y compartir mi trabajo y pasión. Si tienes alguna pregunta, colaboración o simplemente quieres saludar, no dudes en ponerte en contacto a través de las redes sociales o enviándome un correo electrónico. ¡Espero tener noticias tuyas pronto!"
+  }
+}

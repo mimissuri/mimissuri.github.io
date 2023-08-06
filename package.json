@@ -1,0 +1,27 @@
+{
+  "name": "mimisuri",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@next/font": "13.1.4",
+    "@react-three/drei": "^9.56.5",
+    "@react-three/fiber": "^8.10.1",
+    "@types/three": "^0.148.1",
+    "eslint": "8.32.0",
+    "eslint-config-next": "13.1.4",
+    "next": "13.1.4",
+    "next-i18next": "^13.0.3",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "three": "^0.149.0"
+  },
+  "devDependencies": {
+    "@wixc3/react-board": "^2.1.3"
+  }
+}

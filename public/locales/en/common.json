@@ -1,0 +1,39 @@
+{
+  "menu": {
+    "adam": "Adam",
+    "aboutme": "About Me",
+    "skills": "Skills",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "adam": {
+    "title": "Adam",
+    "subtitle": "Mathematics and Computer Science"
+  },
+  "about": {
+    "heysoy": "Hey! I'm",
+    "niceto": ", nice to meet you!",
+    "soyun": "I am a 20-year-old student of the",
+    "doblegr": "double degree in Mathematics and Computer Engineering",
+    "moti": ", with a great motivation to find new challenges and opportunities to learn and grow professionally.",
+    "mepresento": "I present myself as a dedicated and committed person, with a great organizational and learning capacity, which allows me to quickly adapt to new environments and technologies. I enjoy teamwork, looking for creative solutions to complex problems.",
+    "skills": "Skills"
+  },
+  "header": {
+    "Home": "Home",
+    "About": "About"
+  },
+  "experience": {
+    "title": "Experience",
+    "imssyTitulo": "Web Developer",
+    "imssyInicio": "During my time at IMSSY Industrie, I worked as a web developer in charge of creating the website",
+    "imssyFinal": "Using WordPress, I designed and developed the site, while also programming a custom plugin using PHP and Three.js to display 3D models of the company's products. In addition, I managed the hosting infrastructure and implemented SEO techniques to improve the positioning of the website in search engines",
+    "wardusTitulo": "Phone Developer",
+    "wardus": "I'm currently working on an exciting project called Wardus, an app for iOS and Android. I'm using Flutter to code the app, which allows me to create a beautiful and fluid UI for iOS and Android. For the backend, I am using Firebase, which provides me with a scalable and secure cloud platform to store and sync data in real time. Lastly, I am using Cloudflare to improve the security and performance of the application."
+  },
+  "contact": {
+    "title": "Contact",
+    "text": "I am excited to connect and share my work and passion. If you have any questions, collaboration or just want to say hello, do not hesitate to get in touch through social networks or by sending me an email. I hope to hear from you soon!"
+  }
+}
